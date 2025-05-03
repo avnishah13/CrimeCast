@@ -1,5 +1,5 @@
 Crime Category Prediction 🕵️‍♀️📊
-This notebook focuses on predicting crime categories using data from the following [Kaggle competition]([url](https://www.kaggle.com/competitions/crime-cast-forecasting-crime-categories)) - .
+This notebook focuses on predicting crime categories using data from the following [Kaggle competition]([url](https://www.kaggle.com/competitions/crime-cast-forecasting-crime-categories)).
 
 📌 Objective
 The goal is to classify crime incidents into one of 39 possible categories based on features like location, day of the week, and address.
